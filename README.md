@@ -31,13 +31,31 @@ This project provides automated and reproducible workflows for processing CD spe
 * **Data Manipulation:** `pandas`, `numpy`, `xarray`
 * **Signal Processing & Optimization:** `scipy` (`signal`, `optimize`)
 * **Data Visualization:** `matplotlib`
-* ## 📦 Installation
+* ## ▶️ How to Run
 
-Install all required dependencies:
+1. Clone the repository:
+
+```bash
+git clone https://github.com/aigerim-tokayeva/Protein-Thermostability-CD-Analysis.git
+```
+
+2. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
+
+3. Launch Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+4. Open and run:
+
+* `CD_analysis_spectra.ipynb`
+* `CD_analysis_tempscan.ipynb`
+
 
 
 ## 📂 Repository Structure
