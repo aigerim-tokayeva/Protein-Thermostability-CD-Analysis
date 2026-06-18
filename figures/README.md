@@ -2,4 +2,4 @@
 
 ### Thermal Stability Analysis
 
-![Tm Fit](figures/cd_vs_wavelength.png)
+figures/cd_vs_wavelength.png
