@@ -31,6 +31,14 @@ This project provides automated and reproducible workflows for processing CD spe
 * **Data Manipulation:** `pandas`, `numpy`, `xarray`
 * **Signal Processing & Optimization:** `scipy` (`signal`, `optimize`)
 * **Data Visualization:** `matplotlib`
+* ## 📦 Installation
+
+Install all required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 
 ## 📂 Repository Structure
 
