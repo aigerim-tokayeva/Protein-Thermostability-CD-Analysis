@@ -31,3 +31,12 @@ Developed as an integrated solution to replace manual Excel-based processing for
 
 ## 📈 Impact & Application
 These scripts reduce data processing time from hours of manual tabulation to seconds of automated execution, ensuring highly reproducible extraction of thermodynamic parameters ($T_m$) and clean, publication-ready figures for biophysical assays.
+
+
+## Example Results
+
+### Circular Dichroism Analysis
+
+The figure below shows CD spectra collected across a temperature range from approximately 25°C to 90°C. The color scale represents temperature, allowing visualization of temperature-dependent structural changes in the protein.
+
+![CD Analysis](figures/cd_vs_wavelength.png)
