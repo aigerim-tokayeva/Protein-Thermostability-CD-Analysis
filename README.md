@@ -76,3 +76,10 @@ These workflows automate routine CD data processing tasks, improve reproducibili
 The figure below shows CD spectra collected across a temperature range from approximately 25°C to 90°C. The color scale represents temperature, allowing visualization of temperature-dependent structural changes in the protein.
 
 ![CD Analysis](figures/cd_vs_wavelength.png)
+
+
+### Melting Temperature Estimation
+
+Melting temperatures (Tm) were independently extracted from temperature-dependent unfolding curves at multiple wavelengths using non-linear regression. Consistent Tm values across wavelengths indicate robust model fitting and reliable thermostability estimation.
+
+![Tm vs Wavelength](figures/tm_vs_wavelength.png)
